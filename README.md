@@ -28,3 +28,6 @@ This dashboard simulates ICU patient monitoring with intelligent decision-suppor
 
 ## Screenshots
 See the screenshots folder for project outputs.
+
+## Demo Video
+[Watch Project Demo Video](https://drive.google.com/file/d/17cEDLaOtu46OX5XcdrU1rmIcyJ-GAGjB/view?usp=sharing)
